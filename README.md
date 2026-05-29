@@ -1,15 +1,8 @@
 # 🚀 Personal Portfolio Website  
-### Developed & Designed by **Prakash Mali**
+### Developed & Designed by **Khushal Shivade**
 
 Welcome to my official portfolio website!  
-This project showcases my work in **AI/ML Development, Data Analytics, and Full-Stack Web Development**.
-
----
-
-## 🔗 Live Website
-👉 Hosted Version: [View Live Site](https://preeminent-froyo-2b7c0b.netlify.app/)
-
----
+This project showcases my work in **Software Development, Full-Stack Web Development, and Data Analytics**.
 
 ## 🛠️ Technology Stack
 
@@ -21,5 +14,4 @@ This project is crafted using modern and scalable web technologies:
 - 🔐 Fully responsive design for all devices
 
 ---
-# Develop by Prakash Mali 
-
+# Developed by Khushal Shivade
