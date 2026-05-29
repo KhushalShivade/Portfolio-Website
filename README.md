@@ -4,6 +4,13 @@
 Welcome to my official portfolio website!  
 This project showcases my work in **Software Development, Full-Stack Web Development, and Data Analytics**.
 
+---
+
+## 🔗 Live Website
+👉 Hosted Version: [View Live Site](https://khushal-shivade-332f89.netlify.app/)
+
+---
+
 ## 🛠️ Technology Stack
 
 This project is crafted using modern and scalable web technologies:
